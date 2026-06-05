@@ -1,6 +1,6 @@
 # install
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/M946i/s-ui/refs/heads/main/install-s-ui.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/M946i/s-ui-alpine/refs/heads/main/install-s-ui.sh)
 ```
 # reset username password
 ```
