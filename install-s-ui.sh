@@ -28,7 +28,7 @@ echo "[2/6] 下载 s-ui..."
 
 cd /tmp
 wget -O s-ui.tar.gz \
-https://github.com/admin8800/s-ui/releases/download/${VERSION}/s-ui-linux-${ARCH}.tar.gz
+https://github.com/alireza0/s-ui/releases/download/${VERSION}/s-ui-linux-${ARCH}.tar.gz
 
 rm -rf s-ui
 tar -zxf s-ui.tar.gz
